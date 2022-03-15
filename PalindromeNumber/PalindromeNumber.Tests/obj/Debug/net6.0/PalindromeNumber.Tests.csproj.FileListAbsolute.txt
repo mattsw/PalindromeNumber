@@ -96,3 +96,9 @@ E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\obj\Debug\n
 E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\obj\Debug\net6.0\PalindromeNumber.Tests.pdb
 E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\obj\Debug\net6.0\PalindromeNumber.Tests.genruntimeconfig.cache
 E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\obj\Debug\net6.0\ref\PalindromeNumber.Tests.dll
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\PalindromeNumber.deps.json
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\PalindromeNumber.runtimeconfig.json
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\PalindromeNumber.exe
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\PalindromeNumber.dll
+E:\Projects\PalindromeNumber\PalindromeNumber\PalindromeNumber.Tests\bin\Debug\net6.0\PalindromeNumber.pdb
