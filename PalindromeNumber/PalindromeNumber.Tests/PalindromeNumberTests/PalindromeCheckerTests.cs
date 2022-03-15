@@ -15,6 +15,14 @@ namespace PalindromeNumber.Tests.PalindromeNumberTests
         }
 
         [TestMethod]
+        public void PalindromeChecker_ShouldIdentifyNegativeNumbersAsNonPalindrome()
+        {
+            var sut = new PalindromeChecker();
+            var result = sut.IsPalindrome(-1);
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
         public void PalindromeChecker_ShouldIdentifyIncorrectPalindromeNumber()
         {
             var sut = new PalindromeChecker();
